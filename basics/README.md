@@ -15,4 +15,4 @@ Script 13 : Cree© un lien symbolique vers /bin/ls, nomm√© __ls__. Le lien symbol
 Script 14 : Cr√e un script qui copie tous les fichiers HTML du re©pertoire de travail actuel vers le parent du e©pertoire de travail, mais ne copie que les fichiers qui n'existaient pas dans le parent du e©pertoire de travil ou qui e©taient plusrecent que les versions du parent du re©pertoire de travil.
 Script 15 : De©place tous les fichiers commen√ßant par une lettre majuscule dans lre©pertoire /tmp/u.
 Script 16 : Supprime tous les fichiers du re©pertoire de travail actuel qui se terminent par le carctere. 
-Script 17 : Cree les e©pertoires welcome/, welcome/to/ et welcome/to/school dans le e©pertoire courant
+Script 17 : Cree les re©pertoires welcome/, welcome/to/ et welcome/to/school dans l re©pertoire couran.
