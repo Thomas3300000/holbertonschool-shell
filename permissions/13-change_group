@@ -1,2 +1,2 @@
 #!/bin/bash
-chown holbertonschool-shel:school hello
+chown permissions:school hello
