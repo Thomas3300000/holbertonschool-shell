@@ -1,2 +1,2 @@
 #!/bin/bash
-chown permissions:school hello
+chown root:school hello
